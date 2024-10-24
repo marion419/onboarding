@@ -11,7 +11,7 @@ void main() async {
   MobileAds.instance.initialize();
   await Firebase.initializeApp(
     options: FirebaseOptions(
-      apiKey: 'AIzaSyA1kLLF7VY0NVxe4_y21zoJ106hDgIiaUk',
+      apiKey: '--------------------------------------------', // apiKey
       appId: '1:773679401434:android:5433c3ed56b6f70213d8e3',
       messagingSenderId: '773679401434',
       projectId: 'flutter-memo-app-d8b76',
